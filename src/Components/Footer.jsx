@@ -18,4 +18,4 @@ function Footer() {
      );
 }
 
-export def
+export default Footer;

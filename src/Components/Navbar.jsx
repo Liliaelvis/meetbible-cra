@@ -92,4 +92,10 @@ function Navbar() {
           </ul>
         </div>
         <div className="navbar-end">
-          <a 
+          <a href="#" className="btn-disabled">Sign In</a>
+        </div>
+      </div>
+     );
+}
+
+export default Navbar;
