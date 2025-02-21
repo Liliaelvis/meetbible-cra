@@ -1,13 +1,12 @@
-import React from 'react';
+import React from "react";
+import Pingui from "./Components/Pingui";
 
 function Home() {
-    return ( 
-        <div>
-            <p>
-                Home under construction.
-            </p>
-        </div>
-    );
+  return (
+    <div>
+      <Pingui message="coming soon" />
+    </div>
+  );
 }
 
 export default Home;
